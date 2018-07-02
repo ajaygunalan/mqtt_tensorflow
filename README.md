@@ -22,8 +22,8 @@ Usage(MQTT):
 4. Define a global variable which stores the value whenever it is subscribed in the on_message function.
 5. It is then passed on to the Tensorflow, which when calculates and publishes the joint angle values to Rpi.
 
-Author: Abhimanyu
-Email Id: abhimanyusingh8713@gmail.com
+Author: Abhik, Abhimanyu
+Email Id: abhiksingla10@gmail.com, abhimanyusingh8713@gmail.com
 
 
 
