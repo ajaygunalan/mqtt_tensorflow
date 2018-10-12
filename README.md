@@ -11,12 +11,14 @@ The repositry contains the lowest-level implementation of the neural network tra
   sudo pip3 install tensorflow==1.5
   ```
 3. Numpy: 
-```sudo pip3 install numpy
-```
+  ```
+  sudo pip3 install numpy
+  ```
 4. Yaml: 
-```sudo pip3 install ruamel.yaml
-```
-5. Paho MQTT client
+  ```
+  sudo pip3 install ruamel.yaml
+  ```
+5. [Paho MQTT client](https://github.com/ajaygunalan/mqtt_pub_sub)
 
 # Usage(For tensor flow):
 1. Do NOT modify the helper files: "utility.py, normalize.py and weights_file".
